@@ -5,7 +5,7 @@
     { "source": "/(.*)", "destination": "/public/index.html" }
   ],
   "env": {
-    "ANTHROPIC_API_KEY": "@anthropic_api_key"
+    "ANTHROPIC_API_KEY": "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"
   },
   "functions": {
     "api/chat.js": {
